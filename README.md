@@ -29,3 +29,15 @@ Finally, coding matters because it cultivates critical awareness. Digital media 
 ## Conclusion
 
 In summary, coding matters to artists and designers for four interconnected reasons. It grants creative agency by freeing practitioners from the constraints of ready-made tools. It opens up an entirely new expressive medium that makes interactive and generative work possible. It reduces collaboration costs by enabling designers to communicate with engineers on shared ground and to make informed feasibility judgments early — a need made visible by the existence of the Technical Artist role in game development. And it fosters critical literacy by demystifying the algorithmic systems that underpin digital media. We learn technical methods, but more importantly, we develop the judgement to understand both what modern technology can do and what it should do. By combining creative vision with the ability to build, we can produce multimedia work that is not only technically polished, but also meaningful for audiences.
+
+## Reference
+
+1. Reas, C. and Fry, B., 2014. Processing: A Programming Handbook for Visual Designers and Artists. 2nd ed. Cambridge: MIT Press.
+Supports: coding as creative agency, generative art, procedural animation; shifting from software user to builder of creative tools.
+2. Shiffman, D., 2021. The Nature of Code: Simulating Natural Systems with JavaScript. 2nd ed. Self‑published.
+Supports: algorithmic thinking, problem‑decomposition, iterative prototyping for artists‑designers.
+3. Andersen, C.U. and Goriunova, O., eds., 2017. Fun and Software: Exploring Pleasure, Paradox and Pain in Computing. New York: Bloomsbury Academic.
+Supports: critical perspective on digital technology; balancing technical capability with human‑centered audience experience.
+4. Nanyang Technological University, 2024. Why Learning Creative Code Still Matters in the Age of Artificial Intelligence [Poster]. Available at: https://www.ntu.edu.sg/docs/nielibraries/ote-documents/open-house/research/vpa-poster-03.pdf?sfvrsn=9991bc6e_3(Accessed 09 Sep. 2026)Nanyang Te....
+Supports: creative agency, critical digital literacy, understanding underlying algorithmic logic.
+5. Mechtley, A. and Trowbridge, R., 2013. Maya Python for Games and Film: A Complete Reference for Maya Python and the Maya Python API. Boca Raton: CRC Press.

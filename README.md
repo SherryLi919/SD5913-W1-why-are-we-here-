@@ -1,7 +1,4 @@
 # SD5913-W1-why-are-we-here-
-
-当然。下面是润色后的版本：保留了原本的四层论证，但弱化了过度绝对的说法、补进了反面限定，也加入了规范的 Harvard 式文内引用。提交前请按学校要求核对参考文献格式与链接可用性。
-
 # Why Coding Matters to Artists and Designers
 
 ## Introduction

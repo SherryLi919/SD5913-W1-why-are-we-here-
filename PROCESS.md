@@ -2,84 +2,89 @@
 
 ## 1. Starting Point: I Submitted an Off-Topic First Draft
 
-At the very beginning, I wrote an English course essay themed around "reflections on my learning as a postgraduate student in multimedia entertainment," with a core argument about "balancing technical capability with critical thinking." I incorporated my own field observations from visiting interactive theme-park attractions, trying to argue that "storytelling and emotion matter more than high-end hardware."
+At the beginning, I wrote an English course essay about reflections on my learning as a postgraduate student in multimedia entertainment. Its central argument concerned the balance between technical capability and critical thinking. I included my own observations from visiting interactive theme-park attractions, arguing that storytelling and emotional experience matter more than simply using advanced hardware.
 
-The AI helped me with a Chinese translation and structural analysis, pointing out that my essay's logic was: rapid technological evolution → risk of techno-centrism → building professional awareness through theory → adapting to industry realities through hands-on practice → creating emotionally meaningful work.
+The AI helped me translate the draft into Chinese and analyse its structure. It identified the original logic as follows: rapid technological change can lead to techno-centrism; creators therefore need professional awareness, theoretical reflection, practical experience, and a focus on meaningful audience experiences.
 
 ## 2. I Realised the Prompt Was Different
 
-After the translation was done, I realised something important: the actual assignment prompt was **"Why coding matters to artists/designers."** My earlier draft had focused on "the balance between technology and humanities," which was off-topic.
+After the translation, I realised that the actual assignment prompt was **“Why coding matters to artists/designers.”** My earlier draft focused too broadly on the relationship between technology and the humanities, so it did not answer the question directly.
 
-I told the AI about this, and it quickly pivoted. It rewrote a version of around 600 words around the real prompt, shifting the central argument from "balance between technology and humanities" to "coding grants creative agency to creators," while keeping my personal field observation of theme-park attractions from the original draft.
+I explained this to the AI, and it helped me shift the central argument. Instead of discussing technology in general, I began to focus on how coding can give creative practitioners greater control over their work while still retaining my observation of interactive theme-park attractions.
 
-## 3. I Decided to Pause Writing and Discuss the Question First
+## 3. I Decided to Discuss the Question Before Writing
 
-When the rewritten draft came out, I didn't rush to finalise it. I felt this topic deserved to be thought through carefully before writing, so I said: **"Let's not write the essay yet — let's first discuss why coding matters."**
+Rather than immediately finalising an essay, I wanted to clarify my own position first. I asked the AI to discuss why coding matters to artists and designers. It suggested five possible dimensions:
 
-The AI went along with it and threw out five dimensions we could discuss, along with the strengths and pitfalls of each:
+1. **Creative agency**: coding can turn artists from users of software into makers who can adapt creative tools.
+2. **A new expressive medium**: code can enable generative art, interactive installations, and responsive systems.
+3. **Transferable thinking**: programming can develop problem decomposition, abstraction, and systems thinking.
+4. **Collaboration and communication**: coding knowledge can help designers communicate with engineers and assess feasibility.
+5. **Critical literacy**: understanding code can help creators question the assumptions and biases built into digital systems.
 
-1. **Creative Agency**: Creators who can't code are "users" of software; those who can code are "makers" of tools. Empowering, but risks becoming technological determinism.
-2. **A New Expressive Medium**: Code itself is a creative material; generative art, interactive installations, etc., are impossible with traditional tools. The key is distinguishing "using code to make old things faster" from "code enables things old tools can't do at all."
-3. **Transferable Thinking**: Programming trains problem decomposition, pattern abstraction, and systems thinking — abilities that reshape design thinking in turn. Deep, but risks being too abstract.
-4. **Collaboration and Communication**: In the industry, designers must collaborate with engineers; understanding code isn't about replacing engineers, but about speaking the same language, assessing feasibility, and reducing communication costs.
-5. **Critical Dimension**: Only by understanding code can one see through the logic and biases embedded in algorithms, and maintain critique of the "neutrality of technology" myth. This connects to the "critical thinking" thread in my original draft.
-
-The AI also asked me whether I had personal experiences of "a design being rejected by engineers due to technical ignorance" or conversely "avoiding a problem early because I knew a bit of code" — it said essays grounded in personal experience are more persuasive.
+This discussion helped me see that coding should not be presented only as a technical employment skill. It also affects creative independence, communication, and critical awareness.
 
 ## 4. I Chose the Collaboration Dimension and Brought Up the TA Observation
 
-Among the five dimensions, I felt the strongest connection to the fourth one (collaboration and communication), because it directly related to what I had observed in the industry. I brought up a phenomenon I had noticed:
+Among these dimensions, I felt most connected to collaboration and communication because it related directly to what I had observed in the game industry. I mentioned the role of the Technical Artist (TA), which sits between art and programming. My original point was that digital interactive products require programming support, and that designers who understand programming can reduce communication costs and make a team more efficient.
 
-> In the game development pipeline, there is a role that bridges art and programming called the Technical Artist (TA). Any product that can interact with users requires programming support. Therefore, when designers understand programming, it reduces communication costs and makes the team more efficient.
+The AI helped me develop this observation into a clearer argument:
 
-The AI helped me organise this fairly loose observation into a rigorous argumentative chain:
+- The Technical Artist role exists to translate between artistic intentions and technical implementation.
+- Its existence suggests that the gap between art and engineering is significant in game-development teams.
+- When designers have some coding knowledge, they can better assess feasibility, understand constraints, and communicate with technical colleagues earlier in the process.
 
-- **Phenomenon**: The TA role exists in game development, dedicated to translating and bridging between art and engineering.
-- **Inference**: The very existence of this role proves that the communication gap between artists and programmers is real, costly, and large enough to warrant a dedicated full-time intermediary.
-- **Conclusion**: If designers themselves understand code, they can significantly narrow this gap — directly assessing what is feasible, what is costly, and communicating with engineering on the same wavelength.
+## 5. I Considered a Counterargument
 
-## 5. The AI Flagged a Counterargument I Needed to Handle
+The AI also raised a counterargument that I had not initially considered: if Technical Artists already bridge art and engineering, why should artists and designers learn code themselves?
 
-While mapping out the argument, the AI proactively raised a counterargument I hadn't thought of:
+This question improved my argument. I concluded that Technical Artists can solve translation problems, but designers still need to make informed judgements at the concept stage. A designer with no technical awareness may propose an interaction that is too expensive, too time-consuming, or impossible to implement. If this is discovered only after the idea has been presented to clients or included in a production schedule, changing it can be difficult.
 
-> "Doesn't the existence of the TA role prove the opposite — that the industry solution is to hire an intermediary, rather than expecting artists to learn code?"
+Therefore, learning code does not mean that designers should replace programmers or Technical Artists. Instead, it allows them to consider feasibility earlier and have more productive discussions with engineers. The collaboration can move from asking, “Can this be made?” to asking, “What is the most effective way to make it?”
 
-That was a sharp question. The AI gave me a way to respond:
+## 6. I Generated an Initial Essay and Then Asked for a Critical Review
 
-- A TA can solve "translation" problems, but not "judgment" problems.
-- A designer with no technical understanding might propose an interaction that is prohibitively expensive or even impossible during the concept phase; by the time the TA or engineering team feeds this back, the design may already be locked into presentations, milestones, or client expectations — impossible to revise.
-- A designer who understands code isn't trying to replace the TA, but rather to internalise technical feasibility from the earliest design stages, shifting the collaboration model from "can you make this work?" to "how should we make this work best?" — a qualitative difference.
+After confirming the argument structure, I used AI assistance to create an initial English essay. It was organised around four main ideas: creative agency, coding as an expressive medium, collaboration, and critical literacy.
 
-The AI also suggested I qualify "any product needs programming support" to "**any digital, interactive product**" for greater rigour (after all, a hand-drawn poster doesn't need code). And it reminded me that this argument applies beyond games — to interactive installations, websites, apps, immersive exhibitions, and AR/VR experiences.
+However, I did not treat this draft as final. I then asked another AI assistant to review it critically. The review identified several areas that needed improvement:
 
-## 6. Once I Confirmed, I Asked the AI to Generate the Essay
+- The essay had a reference list but no in-text citations.
+- The “Supports:” notes under each reference were not appropriate in a formal academic reference list.
+- Some claims were too absolute, such as suggesting that coding provides “infinite possibilities” or that interactive moments are “almost always” the most memorable.
+- My theme-park observation needed to be expressed more specifically and carefully.
+- The argument about Technical Artists was strong, but it needed cautious wording so that it did not claim more than the evidence could support.
 
-Once the argumentative framework, core case study, and counterargument handling were all clear, I said: **"Okay, let's generate the essay."**
+This review helped me understand that academic writing requires not only clear ideas, but also precise claims, consistent citations, and a careful distinction between personal observation and evidence-based argument.
 
-The AI initiated the academic writing workflow, loaded the academic writing skill, set the parameters as a term paper with no citations required and a 600–1000 word range, then wrote the full essay based on the five-dimension framework we had confirmed. The "Collaboration Bridge" chapter was the centrepiece, fully integrating the TA case I had proposed and the counterargument handling we had discussed together.
+## 7. I Revised the Essay Through Further Collaboration
 
-It passed the checks, and the final English essay came to 955 words, comprising six chapters: Introduction, Coding as Creative Agency, Coding as a New Expressive Medium, Coding as a Collaboration Bridge (focus), Coding as Critical Literacy, and Conclusion.
+I then asked the AI assistant to revise the essay. The revised version retained my original central argument and the TA example, but made several changes:
 
-## 7. I Asked the AI to Translate It into Chinese
+- It added Harvard-style in-text citations.
+- It removed the informal “Supports:” descriptions from the reference list.
+- It softened overgeneralised statements and used more academic wording.
+- It added an important qualification: not every artist needs to become a professional programmer, but basic coding knowledge can improve creative and collaborative decision-making.
+- It clarified that static design software can create visual assets, while code enables the responsive behaviour of an interactive experience.
 
-After receiving the English essay, I asked for a Chinese translation. The AI produced a Chinese academic translation of approximately 1,800 words, fully preserving the argumentative structure and handling the terminology well:
-- Technical Artist → 技术美术（TA）
-- creative agency → 创作自主权
-- critical literacy → 批判素养
-- shader → 着色器
-- generative art → 生成艺术
+The revised version was therefore not simply a rewritten text. It reflected a process in which my original observations and argumentative choices were retained, while the AI helped me improve structure, wording, academic tone, and precision.
 
-## 8. Looking Back on the Whole Process
+## 8. I Checked the Word Count and Condensed the Essay
 
-Looking back, this wasn't a case of me simply receiving an AI-generated essay. It was a gradual process of discussion and clarification:
+The assignment required an essay of **500–1000 words**. When I asked the AI assistant to check the revised version, it found that the main text was 1,104 words, which exceeded the limit.
 
-1. I first submitted an off-topic draft
-2. I realised the real prompt was "why coding matters" and corrected course in time
-3. I didn't rush to write — instead, I discussed the question with the AI across five dimensions first
-4. Based on my own industry observation, I chose "collaboration and communication" as the core argument
-5. I brought up the TA (Technical Artist) as a real-world case to support it
-6. The AI helped me map the argument chain and reminded me to handle the counterargument
-7. Once everything was confirmed, the English essay was generated
-8. Finally, the Chinese translation was completed
+I then asked it to shorten the essay without losing the main argument. The final version was reduced to **838 words in the main body**, which is safely within the required range. The reduction removed repetition, shortened some examples, and made several paragraphs more direct, while preserving the four key sections and the conclusion.
 
-Throughout this process, my industry observation and argumentative choice formed the soul of the essay, while the AI helped me structure, academicise, and articulate my ideas. The final essay is a product of our shared discussion, not something the AI wrote unilaterally.
+## 9. Looking Back on the Whole Process
+
+Looking back, this was not a case of simply receiving an AI-generated essay. It was a process of discussion, revision, and decision-making:
+
+1. I began with an off-topic draft and recognised that it did not answer the assignment question directly.
+2. I discussed possible reasons why coding matters before deciding on an argument.
+3. I selected collaboration and communication as the most relevant dimension based on my own observation of the Technical Artist role.
+4. I considered a counterargument and refined my position.
+5. I used AI assistance to structure and draft the essay.
+6. I requested a critical review rather than accepting the first version.
+7. I revised the essay to improve citation practice, accuracy, and academic tone.
+8. I checked the word count and condensed the final version to meet the assignment requirement.
+
+My industry observation, my choice of the TA example, and my decision to focus on collaboration formed the core of the essay. The AI supported the process by helping me organise, question, revise, and express these ideas more clearly. The final essay is therefore the result of an iterative collaboration in which I remained responsible for the topic, argument, examples, and final decisions.
